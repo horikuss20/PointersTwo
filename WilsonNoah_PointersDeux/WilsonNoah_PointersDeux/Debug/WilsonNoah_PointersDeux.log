@@ -1,0 +1,11 @@
+﻿  WilsonNoah_PointersDeux.cpp
+C:\Users\noah\source\repos\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\noah\source\repos\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux.cpp(19,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\noah\source\repos\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux.cpp(20,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\noah\source\repos\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux.cpp(25,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\noah\source\repos\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux.cpp(25,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\noah\source\repos\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux.cpp(31,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\noah\source\repos\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux.cpp(31,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\noah\source\repos\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux.cpp(39,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\noah\source\repos\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux\WilsonNoah_PointersDeux.cpp(40,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  WilsonNoah_PointersDeux.vcxproj -> C:\Users\noah\source\repos\WilsonNoah_PointersDeux\Debug\WilsonNoah_PointersDeux.exe
